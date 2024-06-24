@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "creativeText";
+  src: url("./assets/fonts/StickFigures-ppeO.ttf") format("truetype");
+}
+
+html {
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-family: "creativeText", sans-serif;
+  font-size: 10rem;
+  font-weight: normal;
+}
